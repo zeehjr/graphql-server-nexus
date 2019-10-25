@@ -2,6 +2,8 @@
 
 It was developed just to test Nexus lib.
 
+I'm using graphql-yoga for the server, nexus to define the schema.
+
 I made an auto-importer for all files ending with .gql.js to make it easier to scale, because I can separate everything in components.
 
 ## Using
