@@ -6,7 +6,7 @@ I made an auto-importer for all files ending with .gql.js to make it easier to s
 
 ## Using
 
-Just run `yarn` and then `yarn install`
+Just run `yarn` and then `yarn start`
 
 ## Adding components
 
