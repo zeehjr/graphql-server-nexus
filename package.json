@@ -1,0 +1,19 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "glob": "^7.1.5",
+    "graphql": "^14.5.8",
+    "graphql-yoga": "^1.18.3",
+    "nexus": "^0.11.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "sucrase": "^3.10.1"
+  }
+}
